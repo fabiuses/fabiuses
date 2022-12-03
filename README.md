@@ -3,8 +3,8 @@
 I am: crypto lover, ambassador and node runner
 
 - Discord - kwix#0555
-- Twitter - @papiezhik
-- Telegram - @papiezh
+- Twitter - @kwixAMB
+- Telegram - @kwixAMB
 
 
 <!---
