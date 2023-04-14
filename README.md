@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @kwix
 
-I am: crypto lover, ambassador and node runner
-
 - Discord - kwix#0555
 - Twitter - @kwixAMB
 - Telegram - @kwixAMB
